@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+form {
+  margin-bottom: 1em;
+}
+
+input,
+button {
+  margin-top: 0.5em;
+}
